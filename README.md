@@ -1,6 +1,6 @@
 # Unusual Spending Kata
 
-[Note: This repo is a ripped version of  Test Double's [Unusual Spending kata](https://github.com/testdouble/unusual-spending). I replace the git history to make it easier to upload but none of the content about this kata is owned or original to me. All credit to the original authors.]
+[Note: This repo is a ripped version of  Test Double's [Unusual Spending kata](https://github.com/testdouble/unusual-spending). I replaced the testing library and restructured the files. Then rather than do it the right way, I just deleted the git history to make it easier to upload. None of the content about this kata is owned or original to me. All credit to the original authors.]
 
 **For getting started with this kata, we recommend watching [this screencast
 which walks through 
