@@ -1,3 +1,4 @@
 /node_modules/*
 !/node_modules/email
 !/node_modules/payment-api
+package-lock.json
